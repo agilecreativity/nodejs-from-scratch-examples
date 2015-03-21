@@ -1,4 +1,3 @@
-// file: 01-util.js
 var util = require('util');
 var log1 = util.debuglog('fulcrum');
 var log2 = util.debuglog('foobar');
