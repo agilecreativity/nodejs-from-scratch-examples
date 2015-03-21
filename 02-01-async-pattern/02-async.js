@@ -31,3 +31,8 @@ odds(numbers, function(err, data) {
 
 // Note: this will run immediately
 console.log("This comes after the odds() call..");
+
+// Output: =>
+//
+// This comes after the odds() call..
+// data: [ 1, 5, 7, 9 ]

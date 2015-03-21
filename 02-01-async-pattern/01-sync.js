@@ -7,3 +7,7 @@ var oddNums = odds(numbers);
 
 // Note this is sync programming
 console.log(oddNums);
+
+// Output: =>
+//
+// [ 1, 3, 5, 7, 9 ]
